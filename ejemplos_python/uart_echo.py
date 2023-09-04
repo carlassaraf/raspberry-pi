@@ -1,5 +1,4 @@
 from serial import Serial as serial
-from time import sleep
 
 # Mensaje de bienvenida
 print("Conectando puerto serie...")
